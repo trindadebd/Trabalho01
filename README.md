@@ -22,13 +22,13 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](http://i.imgur.com/2ljTQ9A.jpg "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo01]:Gustavo dos Santos e Lucas Sielemann.
+    [Grupo02]:Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
