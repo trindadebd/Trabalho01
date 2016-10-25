@@ -22,7 +22,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](http://i.imgur.com/2ljTQ9A.jpg "Modelo Conceitual")
+http://i.imgur.com/bo5A3BG.png
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
@@ -47,7 +47,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ###6	MODELO LÓGICO<br>
+blob:http://imgur.com/a129b6f2-6f19-49f0-8f4c-e6e292fb8acb
 ###7	MODELO FÍSICO<br>
+
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
