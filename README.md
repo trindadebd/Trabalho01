@@ -4,13 +4,13 @@ Trabalho desenvolvido durante a disciplina de BD
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Brenda Trindade e Danielle Trindade.<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+O Projeto LivroAk foi desenvolvido da ideia de que varias pessoas possuem livros guardados em casa. Os quais não usam mais e poderiam ser alugados ou vendidos em uma loja online.  <br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poderam disponibilizar os seus livros para aluguel e/ou venda. O sistema será uma ferramenta onde cada usuario tera um cadastro e a partir dai poderá cadastrar os livros que seram vendidos e/ou alugados. Esses livros estarão disponibilizados em um site que ira separa-los e categoriza-los de acordo com o nome, autor, genero, titulo. E então todos os usuarios cadastrados terão acesso a eles.  <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
@@ -29,7 +29,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]:Gustavo dos Santos e Lucas Sielemann.
-    [Grupo02]:Júlia Jordaim e Camila Fornaciari.
+    [Grupo02]: Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
