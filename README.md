@@ -51,6 +51,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](http://i.imgur.com/3DbJGoV.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
+![Alt text](http://i.imgur.com/PrAubfm.png?raw=true "Title")
+![Alt text](http://i.imgur.com/Ok4K2rq.png?raw=true "Title")
+![Alt text](http://i.imgur.com/48CCBpK.png?raw=true "Title")
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
