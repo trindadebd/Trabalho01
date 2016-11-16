@@ -48,7 +48,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ###6	MODELO LÓGICO<br>
-![Alt text](http://i.imgur.com/3DbJGoV.png?raw=true "Title")
+![Alt text](http://i.imgur.com/lX0Udq1.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
 ![Alt text](http://i.imgur.com/PrAubfm.png?raw=true "Title")
