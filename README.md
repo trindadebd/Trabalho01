@@ -15,7 +15,6 @@ O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poder
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 
@@ -24,12 +23,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](http://i.imgur.com/0zufOP8.png?raw=true "Title")
 
-    
+
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]:Gustavo dos Santos e Lucas Sielemann.
-    [Grupo02]: Júlia Jordaim e Camila Fornaciari.
+    [Grupo02]:Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
@@ -48,12 +47,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ###6	MODELO LÓGICO<br>
-![Alt text](http://i.imgur.com/lX0Udq1.png?raw=true "Title")
+![Alt text](http://i.imgur.com/cMWArDG.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
-![Alt text](http://i.imgur.com/PrAubfm.png?raw=true "Title")
-![Alt text](http://i.imgur.com/Ok4K2rq.png?raw=true "Title")
-![Alt text](http://i.imgur.com/48CCBpK.png?raw=true "Title")
+![Alt text](http://i.imgur.com/rXkicNT.png?raw=true "Title")
+![Alt text](http://i.imgur.com/RyPwxOy.png?raw=true "Title")
+![Alt text](http://i.imgur.com/DFpibhy.png?raw=true "Title")
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
@@ -81,7 +80,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
 
 
 
