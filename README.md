@@ -31,19 +31,65 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     [Grupo02]:Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
+    [atributo]: [descrição da decisão
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
 
 ####5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
+    Usuario: Tabela que armazena as informações relativas ao cliente.<br>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada usuario da empresa.<br>
+    Rg: Campo que armazena o número de registro geral para cada usuario da empresa.<br>
+    Data de nascimento: Campo que armazena a data que o cliente nasceu, para obter a sua idade.
+    Senha: Campo que armazena carcteres para que o usuario consiga entrar na sua conta.
+    Nome usuario: Campo que armazena o Nickname do usuario.<br>
+    Cod_usuario:Campo que é a chave primária.<br>
+    Nome: Campo que armazena o nome completo do usuario.<br>
+    Imagem: Campo que armazena a foto do usuario.<br>
+    Sexo: Campo que armazena o sexo do usuario.<br>
+    Cod_livro:Campo de Chave estrangeira que representa o livro que o usuario cadastrou na empresa.<br>
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    Livro: Tabela que armazena as informações relativas ao livro.<br>
+    Nome: Campo que armazena o nome do livro.<br>
+    Preço_venda: Campo que armazena o preço de venda do livro.<br>
+    Data_cadastro: Campo que armazena a data que o usuario cadastrou o livro.<br>
+    Cod_livro:Campo que é a chave primária.<br>
+    Preço_aluguel: Campo que armazena o preço de aluguel do livro.<br>
+    Imagem: Campo que armazena a foto do livro.<br>
+    
+    Vender:Tabela que armazena as informaçõe sobre a venda do livro.<br>
+    Data_venda: Campo que armazena o dia que foi realizada a venda do livro.<br>
+    Cod_livro:Chave primária junto com o Cod_usuario do  livro que estar sendo vendido.<br>
+    Cod_comprador:Chave estrangeira que representa o comprador do livro.<br>
+    Cod_usuario:Chave primaria junto com o Cod_livro que representa o vendendor.<br>
+    
+    Contato: Tabela que armazena as informações sobre o contato do usuario.<br>
+    
+    Tipo_contato: Tabela que armazena as informações sobre o tipo do contato do usuario.<br>
+    
+    Alugar:Tabela que armazena as informações sobre o alugeul do livro.<br>
+    
+    Endereço:Tabela que armazena as informações sobre a localização do usuario.<br>
+    
+    Cidade:Tabela que armazena a cidade que o usuario informou.<br>
+    
+    Estado:Tabela que armazena o Estado que o usuario informou.<br>
+    
+    Bairro:Tabela que armazena o bairro que o usuario informou.<br>
+    
+    Tipo: Tabela que armazena informações sobre o tipo do livro.<br>
+    
+    Autor: Tabela que armazena informações sobre o autor do livro.<br>
+    
+    Status_livro:Tabela que armazena informações sobre o status do livro.<br>
+    
+    Gênero: Tabela que armazena informações sobre o gênero do livro.<br>
+    
+    Editora:Tabela que armazena infromações sobre a Editorado livro.<br>
+    
+    
+    
+    
 
 
 ###6	MODELO LÓGICO<br>
