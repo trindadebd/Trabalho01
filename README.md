@@ -31,10 +31,88 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     [Grupo02]:Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
+    Campo CPF: Optamos por uma campo do tipo inteiro, pois o campo só pode ser preenchido por inteiros.<br>
+    Rg: Optamos por uma campo do tipo inteiro, pois o campo só pode ser preenchido por inteiros.<br>
+    Data de nascimento: Optamos por uma campo do tipo Date, pois o campo só pode ser preenchido por datas.<br>
+    Senha: Optamos por uma campo do tipo varchar(10), o campo só pode ser preenchido até 10 caracteres.<br>
+    Nome usuario: Optamos por uma campo do tipo varchar(10), seu nikename podendo ter até 10 letras.<br>
+    Cod_usuario:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Nome: Optamos por uma campo do tipo Varchar(30), para o usuario informar o seu nome completo.<br>
+    Imagem: Campo que armazena a foto do usuario, com um campo varchar(50) que receberá o link da foto.<br>
+    Sexo: Campo que armazena o sexo do usuario, com o campo varchar(1) para informar a primeira letra do sexo.<br>
+    Cod_livro:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    Nome: Optamos por uma campo do tipo Varchar(30), para o usuario informar o nome do livro.<br>
+    Preço_venda: Campo que armazena o preço de venda do livro, com um campo de float, para informar qual valor desejar vender o livro.<br>
+    Data_cadastro: Optamos por uma campo do tipo Date, pois o campo só pode ser preenchido por datas.<br>
+    Cod_livro:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Preço_aluguel: Campo que armazena o preço de aluguel do livro, Campo que armazena o preço de aluguel do livro, com um campo de float, para informar qual valor desejar alugar o livro.<br>
+    Imagem: Campo que armazena a foto do livro, Campo que armazena a foto do livro, com um campo varchar(50) que receberá o link da foto.<br>
+    
+    Data_venda: Campo que armazena o dia que foi realizada a venda do livro, optamos por uma campo do tipo Date, pois o campo só pode ser preenchido por datas.<br>
+    Cod_livro:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_comprador:Chave estrangeira que representa o comprador do livro, Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_usuario:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    informação:Campo que armazena a informação referente ao contato, com campo varchar.<br>
+    Cod_cont: Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_tipo:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Cod_tipo:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Desc_tipo:Campo que armazena qual tipo de contato vai ser, campo varchar<br>
+    
+    
+    Data_devolução:Campo que armazena a data de devolução do livro, optamos por uma campo do tipo Date, pois o campo só pode ser preenchido por datas.<br>
+    Data_aluguel:Campo que armazena a data que oi alugado o livro, optamos por uma campo do tipo Date, pois o campo só pode ser preenchido por datas.<br>
+    Cod_livro:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_usuario:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Numero:Campo que armazena o numero da casa do usuario, com o tipo inteiro<br>
+    Cod_endereço:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cep:Campo que armazena o numero do cep do usuario, com tipo inteiro<br>
+    Rua:Campo que armazena o nome da rua do usuario, com tipo inteiro.<br>
+    Cod_usuario:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Desc_cidade:Campo que armazenda a cidade do ususario, com tipo varchar.<br>
+    Cod_cidade:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_endereço:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+   
+    Desc_estado:Campo que armazena o estado do usuario, com tipo varchar<br>
+    cod_estado:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_endereço:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+   
+    Desc_bairro:Campo que armazenda o bairro do usuario, com tipo varchar.<br>
+    cod_bairro:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    cod_endereço:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Descrição:Campo que armazenda o tipo do livro, com tipo de varchar<br>
+    cod_tipo:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+   
+    Nome:Campo que armazena o nome do autor do livro, Optamos por uma campo do tipo Varchar(30), para o usuario informar o nome do autor.<br>
+    Cod_autor:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Cod_livro:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Descrição:Campo que armazenda o status do livro, com tipo varchar.<br>
+    cod_status:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    cod_livro:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+    
+    Descrição:Campo que armazenda o gênero do livro, com tipo varchar.<br>
+    cod_genero:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    
+   
+    cod_editora:Campo que é a chave primária do tipo inteiro, que vai receber somente valores inteiros.<br>
+    Nome:Campo que armazenda o nome da editora do livro, optamos por uma campo do tipo Varchar(30), para o usuario informar o nome da editora.<br>
+    cod_livro:Campo que é a chave estrangeira do tipo inteiro, que vai receber somente valores inteiros.<br>
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     Usuario: Tabela que armazena as informações relativas ao cliente.<br>
@@ -66,63 +144,62 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     Contato: Tabela que armazena as informações sobre o contato do usuario.<br>
     informação:Campo que armazena a informação referente ao contato, exemplo: email(brenda.trindade001@hotmail.com).<br>
     Cod_cont: Chave primária do contato.<br>
-    Cod_tipo:chave
+    Cod_tipo:chave estrangeira.<br>
     
     Tipo_contato: Tabela que armazena as informações sobre o tipo do contato do usuario.<br>
-    Cod_tipo:
-    Desc_tipo:
-    Cod_cont:
+    Cod_tipo:Chave primária do tipo do contato.<br>
+    Desc_tipo:Campo que armazena qual tipo de contato vai ser.<br>
     
     Alugar:Tabela que armazena as informações sobre o alugeul do livro.<br>
-    Data_devolução:
-    Data_aluguel:
-    Cod_livro:
-    Cod_usuario:
+    Data_devolução:Campo que armazena a data de devolução do livro.<br>
+    Data_aluguel:Campo que armazena a data que oi alugado o livro.<br>
+    Cod_livro:Chave primaria.<br>
+    Cod_usuario:Chave primaria.<br>
     
     Endereço:Tabela que armazena as informações sobre a localização do usuario.<br>
-    Numero:
-    Cod_endereço:
-    Cep:
-    Rua:
-    Cod_usuario:
+    Numero:Campo que armazena o numero da casa do usuario.<br>
+    Cod_endereço:Cahve primária da tabela endereço.<br>
+    Cep:Campo que armazena o numero do cep do usuario.<br>
+    Rua:Campo que armazena o nome da rua do usuario.<br>
+    Cod_usuario:Chave estrangeira.<br>
     
     Cidade:Tabela que armazena a cidade que o usuario informou.<br>
-    Desc_cidade:
-    Cod_cidade:
-    Cod_endereço:
+    Desc_cidade:Campo que armazenda a cidade do ususario.<br>
+    Cod_cidade:chave primaria.<br>
+    Cod_endereço:chave estrangeira.<br>
     
     Estado:Tabela que armazena o Estado que o usuario informou.<br>
-    Desc_estado:
-    cod_estado:
-    Cod_endereço:
+    Desc_estado:Campo que armazena o estado do usuario.<br>
+    cod_estado:Chave primaria.<br>
+    Cod_endereço:Chave estrangeira.<br>
     
     Bairro:Tabela que armazena o bairro que o usuario informou.<br>
-    Desc_bairro:
-    cod_bairro:
-    cod_endereço:
+    Desc_bairro:Campo que armazenda o bairro do usuario.<br>
+    cod_bairro:Chave primaria.<br>
+    cod_endereço:Chave estrangeira.<br>
     
     Tipo: Tabela que armazena informações sobre o tipo do livro.<br>
-    Descrição:
-    cod_tipo:
-    cod_tipo:
+    Descrição:Campo que armazenda o tipo do livro.<br>
+    cod_tipo:chave primaria.<br>
     
     Autor: Tabela que armazena informações sobre o autor do livro.<br>
-    Nome:
-    Cod_autor:
-    Cod_livro:
+    Nome:Campo que armazena o nome do autor do livro.<br>
+    Cod_autor:chave primaria.<br>
+    Cod_livro:chave estrangeira.<br>
+    
     Status_livro:Tabela que armazena informações sobre o status do livro.<br>
-    Descrição:
-    cod_status:
-    cod_livro:
+    Descrição:Campo que armazenda o status do livro.<br>
+    cod_status:chave primaria.<br>
+    cod_livro:chave estrangeira.<br>
     
     Gênero: Tabela que armazena informações sobre o gênero do livro.<br>
-    Descrição:
-    cod_gereno:
+    Descrição:Campo que armazenda o gênero do livro.<br>
+    cod_genero:chave primaria.<br>
     
     Editora:Tabela que armazena infromações sobre a Editorado livro.<br>
-    cod_editora:
-    Nome:
-    cod_livro:
+    cod_editora:Chave ´primaria.<br>
+    Nome:Campo que armazenda o nome da editora do livro.<br>
+    cod_livro:Chave estrangeira.<br>
     
     
     
