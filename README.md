@@ -246,6 +246,17 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/YxTUrGg.png?raw=true "Title")
 ![Alt text](http://i.imgur.com/84rPWMy.png?raw=true "Title")
 ![Alt text](http://i.imgur.com/HY8Xyg6.png?raw=true "Title")
+![Alt text](http://i.imgur.com/n03mQjN.png?raw=true "Title")
+![Alt text](http://i.imgur.com/Mc9SRxs.png?raw=true "Title")
+![Alt text](http://i.imgur.com/zbPEXF8.png?raw=true "Title")
+![Alt text](http://i.imgur.com/Ssj20xY.png?raw=true "Title")
+![Alt text](http://i.imgur.com/O1Iiszk.png?raw=true "Title")
+![Alt text](http://i.imgur.com/3FlqcX7.png?raw=true "Title")
+![Alt text](http://i.imgur.com/JbXT1oH.png?raw=true "Title")
+![Alt text](http://i.imgur.com/Sy7fiet.png?raw=true "Title")
+![Alt text](http://i.imgur.com/aB90qov.png?raw=true "Title")
+![Alt text](http://i.imgur.com/MoClWvk.png?raw=true "Title")
+
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
