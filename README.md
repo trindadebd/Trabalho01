@@ -241,6 +241,11 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
+![Alt text](http://i.imgur.com/9j0ZwTs.png?raw=true "Title")
+![Alt text](http://i.imgur.com/j2FZrcX.png?raw=true "Title")
+![Alt text](http://i.imgur.com/YxTUrGg.png?raw=true "Title")
+![Alt text](http://i.imgur.com/84rPWMy.png?raw=true "Title")
+![Alt text](http://i.imgur.com/HY8Xyg6.png?raw=true "Title")
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
