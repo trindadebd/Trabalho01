@@ -222,9 +222,9 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/cu7fWWJ.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
-![Alt text](http://i.imgur.com/Nb3JP4j.png?raw=true "Title")
-![Alt text](http://i.imgur.com/XoHAbsS.png?raw=true "Title")
-![Alt text](http://i.imgur.com/yyY41MQ.png?raw=true "Title")
+![Alt text](http://i.imgur.com/dfkau6b.png?raw=true "Title")
+![Alt text](http://i.imgur.com/l65XcQL.png?raw=true "Title")
+![Alt text](http://i.imgur.com/KoDO0cV.png?raw=true "Title")
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
