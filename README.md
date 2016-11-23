@@ -230,9 +230,9 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        b) obtenção de códigos reutilizados
-        c) fontes de estudo para desenvolvimento do projeto
+        a) obtenção dos dados:Dados imaginários e alguns pegados da internet como por exemplo nome de autores de livro.
+        b) obtenção de códigos reutilizados: não teve
+        c) fontes de estudo para desenvolvimento do projeto: Slides da aula Banco de Dados
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
@@ -281,6 +281,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/2SKqHZy.png?raw=true "Title")
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
 ![Alt text](http://i.imgur.com/SQEvNg4.png?raw=true "Title")
+![Alt text](http://i.imgur.com/UR6Mfup.png?raw=true "Title")
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
