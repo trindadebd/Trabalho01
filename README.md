@@ -271,12 +271,19 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
 ![Alt text](http://i.imgur.com/Tgnx2Mj.png?raw=true "Title")
 ####9.6	CONSULTAS COM JUNÇÃO<br>
+![Alt text](http://i.imgur.com/RVD4ubE.png?raw=true "Title")
+![Alt text](http://i.imgur.com/CLdudRj.png?raw=true "Title")
 ####9.7	CONSULTAS COM GROUP BY<br>
+![Alt text](http://i.imgur.com/TRPXTJc.png?raw=true "Title")
+![Alt text](http://i.imgur.com/udX4Wtx.png?raw=true "Title")
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
+![Alt text](http://i.imgur.com/vtfMzoT.png?raw=true "Title")
+![Alt text](http://i.imgur.com/2SKqHZy.png?raw=true "Title")
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+O grupo teve dificuldades no desenvolvimento do modelo conceitual e logico, no desenvolvimento do banco de dados.
 
 
 
