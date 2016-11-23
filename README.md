@@ -16,7 +16,7 @@ O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poder
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](http://i.imgur.com/q24QHug.jpg?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
@@ -280,6 +280,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/vtfMzoT.png?raw=true "Title")
 ![Alt text](http://i.imgur.com/2SKqHZy.png?raw=true "Title")
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
+![Alt text](http://i.imgur.com/SQEvNg4.png?raw=true "Title")
 ####9.10	SUBCONSULTAS<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
