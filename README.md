@@ -206,7 +206,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 
 ###6	MODELO LÓGICO<br>
-![Alt text](http://i.imgur.com/cMWArDG.png?raw=true "Title")
+![Alt text](http://i.imgur.com/cu7fWWJ.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
 ![Alt text](http://i.imgur.com/rXkicNT.png?raw=true "Title")
