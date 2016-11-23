@@ -64,29 +64,65 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     Cod_usuario:Chave primaria junto com o Cod_livro que representa o vendendor.<br>
     
     Contato: Tabela que armazena as informações sobre o contato do usuario.<br>
+    informação:Campo que armazena a informação referente ao contato, exemplo: email(brenda.trindade001@hotmail.com).<br>
+    Cod_cont: Chave primária do contato.<br>
+    Cod_tipo:chave
     
     Tipo_contato: Tabela que armazena as informações sobre o tipo do contato do usuario.<br>
+    Cod_tipo:
+    Desc_tipo:
+    Cod_cont:
     
     Alugar:Tabela que armazena as informações sobre o alugeul do livro.<br>
+    Data_devolução:
+    Data_aluguel:
+    Cod_livro:
+    Cod_usuario:
     
     Endereço:Tabela que armazena as informações sobre a localização do usuario.<br>
+    Numero:
+    Cod_endereço:
+    Cep:
+    Rua:
+    Cod_usuario:
     
     Cidade:Tabela que armazena a cidade que o usuario informou.<br>
+    Desc_cidade:
+    Cod_cidade:
+    Cod_endereço:
     
     Estado:Tabela que armazena o Estado que o usuario informou.<br>
+    Desc_estado:
+    cod_estado:
+    Cod_endereço:
     
     Bairro:Tabela que armazena o bairro que o usuario informou.<br>
+    Desc_bairro:
+    cod_bairro:
+    cod_endereço:
     
     Tipo: Tabela que armazena informações sobre o tipo do livro.<br>
+    Descrição:
+    cod_tipo:
+    cod_tipo:
     
     Autor: Tabela que armazena informações sobre o autor do livro.<br>
-    
+    Nome:
+    Cod_autor:
+    Cod_livro:
     Status_livro:Tabela que armazena informações sobre o status do livro.<br>
+    Descrição:
+    cod_status:
+    cod_livro:
     
     Gênero: Tabela que armazena informações sobre o gênero do livro.<br>
+    Descrição:
+    cod_gereno:
     
     Editora:Tabela que armazena infromações sobre a Editorado livro.<br>
-    
+    cod_editora:
+    Nome:
+    cod_livro:
     
     
     
