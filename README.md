@@ -235,7 +235,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
         c) fontes de estudo para desenvolvimento do projeto: Slides da aula Banco de Dados
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-     ![Alt text](https://github.com/trindadebd/Trabalho01/blob/master/cria%C3%A7%C3%A3o%20e%20inser%C3%A7%C3%A3o.sql?raw=true "Title")   
+![Alt text](https://github.com/trindadebd/Trabalho01/blob/master/cria%C3%A7%C3%A3o%20e%20inser%C3%A7%C3%A3o.sql?raw=true "Title")   
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
@@ -284,7 +284,6 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/SQEvNg4.png?raw=true "Title")
 ![Alt text](http://i.imgur.com/UR6Mfup.png?raw=true "Title")
 ####9.10	SUBCONSULTAS<br>
-![Alt text](http://i.imgur.com/CDYrvNX.png?raw=true "Title")
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 O grupo teve dificuldades no desenvolvimento do modelo conceitual e logico, no desenvolvimento do banco de dados.
