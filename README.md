@@ -258,9 +258,18 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 ![Alt text](http://i.imgur.com/MoClWvk.png?raw=true "Title")
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
+![Alt text](http://i.imgur.com/hR5SSIl.png?raw=true "Title")
+![Alt text](http://i.imgur.com/n33vqIy.png?raw=true "Title")
+![Alt text](http://i.imgur.com/l9LQHft.png?raw=true "Title")
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
+![Alt text](http://i.imgur.com/1GrsgrF.png?raw=true "Title")
+![Alt text](http://i.imgur.com/Vn2ImY6.png?raw=true "Title")
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
+![Alt text](http://i.imgur.com/OwTYNH3.png?raw=true "Title")
+![Alt text](http://i.imgur.com/C1hkF8M.png?raw=true "Title")
+![Alt text](http://i.imgur.com/hwPoU6F.png?raw=true "Title")
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
+![Alt text](http://i.imgur.com/Tgnx2Mj.png?raw=true "Title")
 ####9.6	CONSULTAS COM JUNÇÃO<br>
 ####9.7	CONSULTAS COM GROUP BY<br>
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
