@@ -13,7 +13,7 @@ O Projeto LivroAk foi desenvolvido da ideia de que varias pessoas possuem livros
 O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poderam disponibilizar os seus livros para aluguel e/ou venda. O sistema será uma ferramenta onde cada usuario tera um cadastro com todas as informações necessárias pessoais. Para alugar e/ou vender um livro basta cadastrar os livros para serem vendidos e/ou alugados de acordo com as instruções. Esses livros estarão disponibilizados em um site que ira separa-los e categoriza-los de acordo com o nome, autor, genero, titulo. Cada livro terá que ser cadastrado com seus respectivos status se estam disponiveis, alugados ou vendidos. Com seus valores se forem vendidos ou alugados e irá informar também se a pessoa quer alugar de graça ou até doa o livro. E então todos os usuarios cadastrados terão acesso a eles, podendo se comunicar com outro usuario a partir dos seus contatos disponibilizados.  <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-![Alt text](http://i.imgur.com/q24QHug.jpg?raw=true "Title")
+![Alt text](https://github.com/trindadebd/Trabalho01/blob/master/livroAk.pdf?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
