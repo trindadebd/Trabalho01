@@ -129,7 +129,7 @@ O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poder
 ![Alt text](http://i.imgur.com/cu7fWWJ.png?raw=true "Title")
 
 ###7	MODELO FÍSICO<br>
-![Alt text](https://github.com/trindadebd/Trabalho01/blob/master/cria%C3%A7%C3%A3o.rtf)
+![Alt text](https://github.com/trindadebd/Trabalho01/blob/master/cria%C3%A7%C3%A3o.rtf?raw=true "Title")
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
