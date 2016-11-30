@@ -148,75 +148,96 @@ Select * from usuario;
 ![Alt text](http://i.imgur.com/9j0ZwTs.png?raw=true "Title")
 
 Select * from vender;
+
 ![Alt text](http://i.imgur.com/j2FZrcX.png?raw=true "Title")
 
 Select * from tipo_contato;
+
 ![Alt text](http://i.imgur.com/YxTUrGg.png?raw=true "Title")
 
 Select * from tipo;
+
 ![Alt text](http://i.imgur.com/84rPWMy.png?raw=true "Title")
 
 Select * from status_livro;
+
 ![Alt text](http://i.imgur.com/HY8Xyg6.png?raw=true "Title")
 
 Select * from livro;
+
 ![Alt text](http://i.imgur.com/n03mQjN.png?raw=true "Title")
 
 Select * from genero;
+
 ![Alt text](http://i.imgur.com/Mc9SRxs.png?raw=true "Title")
 
 Select * from estado;
+
 ![Alt text](http://i.imgur.com/zbPEXF8.png?raw=true "Title")
 
 Select * from endereço;
+
 ![Alt text](http://i.imgur.com/Ssj20xY.png?raw=true "Title")
 
 Select * from editora;
+
 ![Alt text](http://i.imgur.com/O1Iiszk.png?raw=true "Title")
 
 Select * from contato;
+
 ![Alt text](http://i.imgur.com/3FlqcX7.png?raw=true "Title")
 
 Select * from cidade;
+
 ![Alt text](http://i.imgur.com/JbXT1oH.png?raw=true "Title")
 
 Select * from bairro;
+
 ![Alt text](http://i.imgur.com/Sy7fiet.png?raw=true "Title")
 
 Select * from autor;
+
 ![Alt text](http://i.imgur.com/aB90qov.png?raw=true "Title")
 
 Select * from alugar;
+
 ![Alt text](http://i.imgur.com/MoClWvk.png?raw=true "Title")
 
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 
 select * from usuario where cod_cont =01;
+
 ![Alt text](http://i.imgur.com/hR5SSIl.png?raw=true "Title")
 
 select * from livro where cod_genero =1 and Preço_venda >15.0;
+
 ![Alt text](http://i.imgur.com/n33vqIy.png?raw=true "Title")
 
 select * from endereço where Cod_cidade< 03 ;
+
 ![Alt text](http://i.imgur.com/l9LQHft.png?raw=true "Title")
 
 
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
 
 Select Nome as Nome_do_autor from autor where  Cod_autor > 03;
+
 ![Alt text](http://i.imgur.com/1GrsgrF.png?raw=true "Title")
 
 Select  Nome, Nome_usu as Nick_name from usuario where sexo = "F" and Cod_usuario > 02;
+
 ![Alt text](http://i.imgur.com/Vn2ImY6.png?raw=true "Title")
 
 
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
 
 Select * from usuario where Nome like 'j%';
+
 ![Alt text](http://i.imgur.com/OwTYNH3.png?raw=true "Title")
 
 Select * from editora where Nome like 'a____';
+
 ![Alt text](http://i.imgur.com/hwPoU6F.png?raw=true "Title")
 
 
