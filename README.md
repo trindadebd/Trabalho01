@@ -294,6 +294,7 @@ select cod_usuario from usuario where cod_usuario = (select max(cod_usuario from
 
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+![Alt text](hhttps://github.com/trindadebd/Trabalho01/blob/master/livroakislide.pptx?raw=true "Title")
 
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
