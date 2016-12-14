@@ -2,7 +2,7 @@ import pandas
 import MySQLdb
 from sqlalchemy import create_engine
 
-parametros_conexao='mysql://brendani:02trindade@brendani.mysql.pythonanywhere-services.com/brendani$banco?charset=utf8'
+parametros_conexao='mysql://brendani:02exemplo@brendani.mysql.pythonanywhere-services.com/brendani$banco?charset=utf8'
 engine = create_engine(parametros_conexao)
 conn = engine.connect()
 tabela='resultados'
