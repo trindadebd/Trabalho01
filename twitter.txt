@@ -1,0 +1,31 @@
+import tweepy
+import banco
+from sqlalchemy import create_engine
+
+
+consumer_key ='xMBsVYH9ndc6drsebQqwejt4P'
+consumer_secret='IIIv2BZN3qKl84JDMo37045Wj9ca5UVv9hUA87Zc0JUyEWc7Ja'
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+access_token='4399241596-wlA8Ue4XYyfUvnQ6hjDVYe9O63bLnCIV3UktATo'
+access_token_secret='TnPjyhyQQAwmzOjN1lelNn9sjI37XqnNGUaRU5RPnOgIY'
+auth.set_access_token(access_token, access_token_secret)
+
+api = tweepy.API(auth)
+pesquisa = ['livros' or 'Livros' or 'livros usados']
+public_tweets = api.search(q=pesquisa)
+
+for tweet in public_tweets:
+    nome_usu= tweet.user.screen_name
+    txt=tweet.text
+    consulta =  """ insert into """ + banco.tabela + """ (nome_usu, txt) VALUES ('"""+str(nome_usu)+  """', '"""  +str(txt )+ """'); """
+    #print (consulta)
+    resultado = banco.conn.execute (consulta)
+    #print (resultado)
+
+resultado = banco.conn.execute ( " SELECT * FROM " + banco.tabela + " ; " )
+bdados = banco.pandas.DataFrame (resultado.fetchall ())
+print (bdados)
+    #print ( " \ n " )
+    #print (pesquisar.user.screen_name)
+    #print (pesquisar.text)
+    #imprimir ( " \ n " )

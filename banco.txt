@@ -1,0 +1,9 @@
+import pandas
+import MySQLdb
+from sqlalchemy import create_engine
+
+parametros_conexao='mysql://brendani:02trindade@brendani.mysql.pythonanywhere-services.com/brendani$banco?charset=utf8'
+engine = create_engine(parametros_conexao)
+conn = engine.connect()
+tabela='resultados'
+result = conn.execute('CREATE TABLE IF NOT EXISTS '+ tabela +' (nome_usu varchar(45), txt varchar(255));')
