@@ -296,11 +296,12 @@ select cod_usuario from usuario where cod_usuario = (select max(cod_usuario from
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ![Alt text](hhttps://github.com/trindadebd/Trabalho01/blob/master/livroakislide.pptx?raw=true "Title")
 
-###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+###11	TRABALHO REDES SOCIAIS<br>
 
+###12   DIFICULDADES ENCONTRADAS<br>
 O grupo teve dificuldades no desenvolvimento do modelo conceitual e logico, no desenvolvimento do banco de dados.
 
-
+###13   FORMATAÇÃO<br>
 
 
 
