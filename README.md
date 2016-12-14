@@ -24,8 +24,8 @@ O mini-mundo se baseia em uma biblioteca online, onde os proprios usuarios poder
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]:Gustavo dos Santos e Lucas Sielemann.
-    [Grupo02]:Júlia Jordaim e Camila Fornaciari.
+    [Grupo01]: Gustavo dos Santos e Lucas Sielemann.
+    [Grupo02]: Júlia Jordaim e Camila Fornaciari.
 
 ####5.2 DECISÕES DE PROJETO
     Criação de novas tabelas para separação e não repetição de nomes em tabelas como livro (no caso dos autores, genero, tipo, editora) e na tabela endereço (no caso de cidade, estado e bairro que se repetiriam varias vezes).
@@ -251,35 +251,45 @@ update estado set cod_estado=04 where desc_estado 'São Paulo';
 
 
 ####9.6	CONSULTAS COM JUNÇÃO<br>
-
+Select autor.nome as nome_do_autor, livro.nome as nome_do_livro from autor inner join livro on (autor.Cod_autor=livro.Cod_autor);
 ![Alt text](http://i.imgur.com/RVD4ubE.png?raw=true "Title")
 
+select usuario.nome, endereço.cep from usuario inner join endereço on (usuario.cod_endereço=endereço.cod_endereço);
 ![Alt text](http://i.imgur.com/CLdudRj.png?raw=true "Title")
 
 
 ####9.7	CONSULTAS COM GROUP BY<br>
 
+select *, count(*) as qnt_de_livros from livro group by Cod_autor;
 ![Alt text](http://i.imgur.com/TRPXTJc.png?raw=true "Title")
 
+select * from usuario group by sexo;
 ![Alt text](http://i.imgur.com/udX4Wtx.png?raw=true "Title")
 
 
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
 
+select livro.nome as nome_livro , livro.data_cadastro, autor.nome as nome_autor from livro outer join autor on (livro.Cod_Autor=autor.cod_autor);
 ![Alt text](http://i.imgur.com/vtfMzoT.png?raw=true "Title")
 
+select livro.nome as nome_livro, livro.data_cadastro, autor.nome as nome_autor from livro left outer join autor on (livro.Cod_autor=autor.cod_autor);
 ![Alt text](http://i.imgur.com/2SKqHZy.png?raw=true "Title")
 
 
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
 
+select liv1.* , liv2.* from livro liv1 inner join livro liv2 on (liv1.Cod_autor=liv2.Cod_autor);
 ![Alt text](http://i.imgur.com/SQEvNg4.png?raw=true "Title")
 
+
+reat view nome_do_livro as select livro.nome as nome_livro, autor.nome as nome_autor from livro inner join autor on (livro.Cod_autor=autor.cod_autor0;
+select * from nome_do_livro
 ![Alt text](http://i.imgur.com/UR6Mfup.png?raw=true "Title")
 
 
 ####9.10	SUBCONSULTAS<br>
 
+select cod_usuario from usuario where cod_usuario = (select max(cod_usuario from usuario);
 ![Alt text](http://i.imgur.com/UG7JxOS.png?raw=true "Title")
 
 
